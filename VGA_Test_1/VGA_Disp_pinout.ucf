@@ -1,0 +1,12 @@
+NET "mclk" LOC=M6;
+NET "RST" LOC=G12;
+NET "HS" LOC=J14;
+NET "VS" LOC=K13;
+NET "RGB_out[0]" LOC=C14;
+NET "RGB_out[1]" LOC=D13;
+NET "RGB_out[2]" LOC=F13;
+NET "RGB_out[3]" LOC=F14;
+NET "RGB_out[4]" LOC=G13;
+NET "RGB_out[5]" LOC=G14;
+NET "RGB_out[6]" LOC=H13;
+NET "RGB_out[7]" LOC=J13;
