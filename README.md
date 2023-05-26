@@ -1,5 +1,5 @@
 # VGA_Controller_VHDL
-This repository contains few examples of VGA Controller Designs in Digilent Basys2 board using VHDL
+This repository contains few examples of VGA Controller Designs in Digilent Basys2 board using VHDL. The pinout is in the .ucf file. The external 100MHz Crytal was used as the main Clock to the system.
 
 ## VGA_Test_1
 This contains the VHDL source files which used to create VGA color strips in a monitor.
